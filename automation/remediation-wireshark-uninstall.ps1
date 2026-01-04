@@ -6,14 +6,14 @@
     Make sure to run as Administrator or with appropriate privileges.
 
 .NOTES
-    Author        : Trevino Parker
+    Author        : Josh Madakor
     Date Created  : 2025-01-19
     Last Modified : 2025-01-19
     Version       : 1.0
 
 .TESTED ON
     Date(s) Tested  : 2025-01-19
-    Tested By       : Trevino Parker
+    Tested By       : Shahzeb Masroor
     Systems Tested  : Windows Server 2019 Datacenter, Build 1809
     PowerShell Ver. : 5.1.17763.6189
     Wireshark Ver.  : 2.2.1 (v2.2.1-0-ga6fbd27 from master-2.2)
